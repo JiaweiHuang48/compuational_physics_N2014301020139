@@ -7,7 +7,7 @@ Student ID:2014301020139<br>
 This file consists of the homeworks and other stuff I learn from this course. Citing and revising of my codes are allowed based on the acknowledgement of my contribution. Giving advice and pointing out errors will be appreciated. 
 <br>
 ##List of homework and exercises
-[Exercise_01](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/Exercise_01)<br>
+[Exercise_01](https://fr.wikipedia.org/wiki/Stars_%C3%A0_domicile)<br>
 [Exercise_02]()<br>
 [Exercise_03]()<br>
 [Exercise_04]()<br>
