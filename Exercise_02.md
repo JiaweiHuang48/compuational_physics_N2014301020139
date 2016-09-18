@@ -11,4 +11,5 @@
 
 ##作业内容
 [土鳖代码](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2.py)<br>
-作业截图：
+作业截图：<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE.png)
