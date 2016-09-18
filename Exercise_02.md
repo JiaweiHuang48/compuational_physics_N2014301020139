@@ -11,5 +11,11 @@
 
 ##作业内容
 [土鳖代码](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2.py)<br>
+<br>
 作业截图：<br>
 ![土鳖](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/%E7%AC%AC%E4%BA%8C%E6%AC%A1%E4%BD%9C%E4%B8%9A%E6%88%AA%E5%9B%BE.png)
+
+##总结
+要好好学语法啊<br>
+另外刚刚在草稿纸上打点拼名字的时候突然想到，摘要里面那个方法由于要换行，好像一次只能输出一个字母，能不能定义一个5*5的矩阵，里面全部是#####，然后要显示哪个字母就像输出数组里面的元素那样指定输出对应的#，想来应该也是可以的。<br>
+然而，并不会写。。。
