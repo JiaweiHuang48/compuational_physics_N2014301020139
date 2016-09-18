@@ -8,7 +8,7 @@ PS:This file consists of the homeworks and other stuff I learn from this course.
 <br>
 ##List of homework and exercises
 [Exercise_01]()<br>
-[Exercise_02]()<br>
+[Exercise_02](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/Exercise_02.md)<br>
 [Exercise_03]()<br>
 [Exercise_04]()<br>
 [Exercise_05]()<br>
