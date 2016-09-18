@@ -10,5 +10,5 @@
 眼看就要交作业了，最后还是决定用土办法，学会了高端的再来装13<br>
 
 ##作业内容
-[土鳖代码]()
+[土鳖代码](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2.py)<br>
 作业截图：
