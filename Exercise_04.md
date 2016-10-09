@@ -6,4 +6,9 @@ where for simplicity we have assumed that the two types of decay are characteriz
 ##摘要
 考虑两个可以互相转化的核A和B,  一开始只有100个A粒子，观察5秒之间的衰变情况，用matplotlib模拟出衰变图。
 ##作业结果
-[代码]()<br>
+[代码](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/code.py)<br>
+图像<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/exercise04.png)<br>
+##总结
+图像与预期结果基本一致，程序基本上就是依葫芦画瓢。<br>
+最后致谢蔡老师的屁屁踢和余剑桥同学的指导。
