@@ -1,7 +1,7 @@
 import pylab as pl
 class cannon:
-    def __init__(self, gravitational_constant=6.6*10**-11, mass_of_earth=6*10**24, radius_of_earth=6371000, time_step=0.1,\
-                 total_time=40, initial_distance_x=0, initial_distance_y=0, initial_velocity_x=200, initial_velocity_y=200):
+    def __init__(self, gravitational_constant=6.67408*10**-11, mass_of_earth=5.977*10**24, radius_of_earth=6371000, time_step=0.1,\
+                 total_time=40.5, initial_distance_x=0, initial_distance_y=0, initial_velocity_x=200, initial_velocity_y=200):
         self.vX = [initial_velocity_x]
         self.vY = [initial_velocity_y]
         self.x = [initial_distance_x]
