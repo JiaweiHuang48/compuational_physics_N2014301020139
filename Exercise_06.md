@@ -18,5 +18,16 @@
 综上所述，我们有<br><br>
 ![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/CP_ex06.PNG)<br>
 此处g=9.8 m/s^2，B/m=4*10^-5 /m<br><br>
-又因为题目要求改变目标的高度，故假设目标离发射点的水平距离为100km，上下两点高度差均为10km，以下是具体解决方法<br><br>
+
 ##结果表达
+[一定速度不同角度下的轨迹]()<br>
+图片上传不了啊啊啊<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/edit/master/Exercise_06.md)<br>
+由图可知(为什么这个能上传= =)，44度时最远<br><br>
+[固定目标的精确度](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/2-10-2.py)<br>
+
+
+##总结
+第二个程序不知道为什么运行不了啊，本来打算发个截图的，git突然上传不了图片是什么鬼，一直显示Something went really wrong, and we can’t process that file.<br>
+就只能先放着了
+T^T
