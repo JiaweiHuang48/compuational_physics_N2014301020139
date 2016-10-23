@@ -2,7 +2,7 @@ import pylab as pl
 import math
 class  cannon:
 
-    def __init__(self,time_step=0.05,X=0,Y=0,initial_speed=200,initial_angel=30,g=9.8,B=0.00004,a=0.0065,alpha=2.5,temperature_at_sea_level=288.15):
+    def __init__(self,time_step=0.05,X=0,Y=0,initial_speed=700,initial_angel=30,g=9.8,B=0.00004,a=0.0065,alpha=2.5,temperature_at_sea_level=288.15):
         self.theta=initial_angel
         self.Vx=[math.cos(self.theta*math.pi/180)*700]
         self.Vy=[math.sin(self.theta*math.pi/180)*700]
