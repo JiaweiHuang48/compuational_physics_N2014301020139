@@ -3,14 +3,14 @@ Exercise 3.12<br>
 In constructing the Poincaré section in Figure 3.9 we plotted points only at times that were in phase with the drive force; that is,
 at times t=2πn/Ωd , where n is an integer. At these values of t the driving force passed through zero [see(3.18)]. However, we could jusi as 
 easily have chosen to make the plot at times corresponding to a maximum of the drive force, 
-or at times π/4 out-of-phase with this force, etc. Construct the Poincaré sections for these cases and compare them with Figure 3.9.
+or at times π/4 out-of-phase with this force, etc. Construct the Poincaré sections for these cases and compare them with Figure 3.9.<br>
 Exercise 3.13<br>
 Write a program to calculate and compare the behavior of two, nearly identical pendulums. Use it to calculate the divergence of two 
 nearby trajectories in the chaotic regime, as in Figure 3.7, and make a qualitative estimate of the corresponding Lyapunov exponent 
-from the slope of a plot of log(Δθ) as a function of t .
+from the slope of a plot of log(Δθ) as a function of t .<br>
 Exercise 3.14<br>
 Repeat the previous problem, but give the two pendulums slightly different damping factors. How does the value of the Lyapunov exponent 
-compare with that found in Figure 3.7?
+compare with that found in Figure 3.7?<br>
 
 ##摘要
 本次作业通过Euler-Cromer方法模拟计算在考虑各种因素的情况下的单摆运动，并讨论其引起的混沌现象。
@@ -22,32 +22,33 @@ compare with that found in Figure 3.7?
 ##内容
 考虑阻尼、非线性和驱动力时的单摆运动方程：<br> 
 <br>
-![]()<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/ex7（1）.PNG)<br>
 <br>
 推出： <br>
 <br>
-![]()<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/ex7（2）.PNG)<br>
 <br>
 带入Euler-Cromer method进行模拟运算：<br> 
 <br>
-![]()<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/ex7（3）.PNG)<br>
 <br>
 如果θ超过[-π,π]那么其值加上或减去π,使其值依然在[-π,π]内。<br>
 除了特殊情况外各参数数值如下：<br>
 <br>
-![]()<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/ex7(4).PNG)<br>
 <br>
 ##结果
 3.12<br>
-![代码1]()<br>
-![]()<br>
-![]()<br>
-![]()<br>
+[代码1](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/ex07(1).py)<br>
+图像<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/ex7(6).PNG)<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/ex7(7).PNG)<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/ex7(8).PNG)<br>
 3.13&3.14<br>
-![代码二]()<br>
-![]()<br>
-![]()<br>
-![]()<br>
+[代码2](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/ex7(2).py)<br>
+图像<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/ex7(9).png)<br>
+![](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/File_2/ex7(10).png)<br>
 <br>
 ##总结
 我们通过Euler-Cromer 方法初步演示了混沌现象，即有确定算法的情况下，得到不确定的结果。
