@@ -14,6 +14,6 @@ PS:This file consists of the homeworks and other stuff I learn from this course.
 [Exercise_05](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/Exercise_05.md "已完成")<br>
 [Exercise_06](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/Exercise_06.md "已完成")<br>
 [Exercise_07](https://github.com/toby459/compuational_physics_N2014301020139/blob/master/Exercise_07.md "已完成")<br>
-[Exercise_08]()<br>
+[Exercise_08](https://www.zybuluo.com/Toby459/note/563412 "已完成")<br>
 [Exercise_09]()<br>
 [Exercise_10]()<br>
