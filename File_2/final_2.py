@@ -3,9 +3,7 @@ import pylab as pl
 import math 
 
 class propagate():
-    """
-    A spectrum analysis of waves on a guitar string
-    """
+
     def __init__(self,c,dx,length,time,k):
         self.c=c
         self.dx=dx
